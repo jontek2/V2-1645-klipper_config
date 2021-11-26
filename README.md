@@ -14,7 +14,8 @@ Macros and config files are separeted in the folders.
 # Main electronics
 
 * SKR 1.4T x2
-* Raspberry Pi 3b+ w/ active cooling
+* LDO motors
+* Raspberry Pi 3b+ w/ [active cooling](https://www.amazon.se/gp/product/B08B84D8VH/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&th=1)
 * Meanwell RSP-200-24
 * Meanwell RS-15-5
 * Keenovo silicone ac heater (240mm x 240mm 600W 220V/240V)
