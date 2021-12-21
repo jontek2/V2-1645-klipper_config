@@ -14,11 +14,11 @@ Macros and config files are separeted in the folders.
 # Main electronics
 
 * SKR 1.4T x2
-* LDO motors
+* LDO motors (A/B: LDO 42STH40-2004MAC, Z: LDO 42STH48-2004AC)
 * Raspberry Pi 3b+ w/ [active cooling](https://www.amazon.se/gp/product/B08B84D8VH/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&th=1)
 * Meanwell RSP-200-24
 * Meanwell RS-15-5
-* Keenovo silicone ac heater (240mm x 240mm 600W 220V/240V)
+* Keenovo silicone AC heater (240mm x 240mm 600W 220V/240V)
 * SSR 120/230 V/AC, 10 Ampere
 * BIGTREETECH PI TFT50 V2.0
 * Klipper expander
@@ -33,12 +33,11 @@ Macros and config files are separeted in the folders.
 * [Bondtech LGX](https://discord.com/channels/460117602945990666/635687829254701107/823946865027317841)
 * [BTT PITFT50 v2 Mount](https://github.com/VoronDesign/VoronUsesrs/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount)
 * [C920 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/C920_Mount)
-* [Chamber thermistor]()
 * [Decontaminator Purge Bucket & Nozzle Scrubber](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
 * [Door sealant](https://www.aliexpress.com/item/1005001446848187.html?spm=a2g0s.9042311.0.0.626e4c4dsDj60w)
+* [Exhaust 120mm with 4in Duct Adapter](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hergtoler/exhaust_120mm_duct)
 * [Frame thermistor]()
 * [Gantry Backing Plates](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers)
-* [Horizontal spool holder](https://github.com/BladeScraper-Designs/VoronUsers/tree/Horizontal-Spool-Holder/printer_mods/BladeScraper-Designs/Horizontal-Spool-Holder)
 * [Keystone Jack Universal Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/bryansj/Keystone_Jack_Universal_Skirt_Insert)
 * [Klicky probe](https://github.com/jlas1/Klicky-Probe)
 * [Klipper expander](https://github.com/timmit99/Klipper-Expander)
@@ -46,7 +45,6 @@ Macros and config files are separeted in the folders.
 * [MarcPot Skirt Mods](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MarcPot/Skirt_Mods)
 * [MGN12 on X (Trident parts)](https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/Gantry/X_Axis/X_Carriage)
 * [Nevermore v5 duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/V2)
-* [Outside thermistor]()
 * [Pins mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 * [Ramalama2 Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
 * [Removable doors](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ElPoPo/RemovableDoors)
