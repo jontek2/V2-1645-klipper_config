@@ -23,6 +23,8 @@ camera="usb"
 #
 camera_usb_options="-r 640x480 -f 10"
 #camera_usb_options="-r 1920x1080 -f 10"
+#camera_usb_options="-r 1280x720 -f 10"
+
 
 
 
