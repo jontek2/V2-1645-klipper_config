@@ -28,20 +28,24 @@ Macros and config files are separeted in folders.
 ### CAN BUS toolhead
 - Board: BTT EBB42
 - Control board: BTT U2C
+- CAN-cable: Generic
 
 ### Toolhead
 - Hotend: Phaetus Dragon HF
 - Hotend fan: Generic 4010
 - Partcooling fan: Delta 5015 Blower BFB0524HH
 - Extruder: Bondtech LGX
+- Probe: Tap with HIWIN MG Series Miniature Linear Rails - MGN9H
 
 ### Enclosure
 - General enclosure: Printed solid ACM panels
-- Front panel: Voron 2.2 fron door w/ PC panel
+- Front panel: Voron 2.2 front door w/ PC panel
 
 ### Mechanics & Frame
 - Frame: LDO v2 300
-- XYZ linear rails: RobotDigg MGN9H silver & RobotDigg MGN12H silver
+- X linear rail: HIWIN MG Series Miniature Linear Rails - MGN12H
+- Y linear rail: HIWIN MG Series Miniature Linear Rails - MGN9H
+- Z linear rail: RobotDigg - MGN9H 
 - Foamtape: [XFasten Black Foam Seal Tape](https://www.amazon.com/dp/B07QYGN3C1)
 
 ### Bed
@@ -49,6 +53,7 @@ Macros and config files are separeted in folders.
 - Heater pad: Keenovo silicone AC heater (240mm x 240mm 600W 220V/240V)
 - Buildplate: Universal, 300x300x8mm
 - PEI: PrimaCreator Powder Coated PEI 310x310mm
+- Kinamatic mount: 4 of 50mm MGN9 rails
 
 ## Modifications
 
@@ -57,6 +62,7 @@ Macros and config files are separeted in folders.
 - [Bondtech LGX](https://discord.com/channels/460117602945990666/635687829254701107/823946865027317841)
 - [C920 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/C920_Mount)
 - Frame thermistor
+- Z-chain relocation (XY-chain instead of Z-chain)
 - [Gantry Backing Plates](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers)
 - [Keystone Jack Universal Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/bryansj/Keystone_Jack_Universal_Skirt_Insert)
 - [LED mounts](https://discord.com/channels/460117602945990666/635687829254701107/725391527882260563)
