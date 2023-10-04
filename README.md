@@ -26,20 +26,21 @@ Macros and config files are separeted in folders.
 - Relay: Shelly 1PM+
 
 ### CAN BUS toolhead
-- Board: BTT EBB42
+- Board: BTT EBB36
 - Control board: BTT U2C
-- CAN-cable: Generic
+- CAN-cable: [Microfit overmold](https://www.digikey.se/en/products/detail/molex/2451320450/6822830)
 
 ### Toolhead
+- Toolhead: Xol + G2SA
 - Hotend: Phaetus Dragon HF
-- Hotend fan: Generic 4010
-- Partcooling fan: Delta 5015 Blower BFB0524HH
-- Extruder: Bondtech LGX
-- Probe: Tap with HIWIN MG Series Miniature Linear Rails - MGN9H
+- Hotend fan: Generic 2510
+- Partcooling fan: Delta Electronics 12v BFB0412HHA-A117
+- Extruder: Galileo 2 StandAlone
+- Probe: Beacon
 
 ### Enclosure
-- General enclosure: Printed solid ACM panels
-- Front panel: Voron 2.2 front door w/ PC panel
+- General enclosure: Printed solid ACM panels with foam outside of the panels
+- Front door: [Extrusion door](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door/)
 
 ### Mechanics & Frame
 - Frame: LDO v2 300
@@ -53,13 +54,11 @@ Macros and config files are separeted in folders.
 - Heater pad: Keenovo silicone AC heater (240mm x 240mm 600W 220V/240V)
 - Buildplate: Universal, 300x300x8mm
 - PEI: PrimaCreator Powder Coated PEI 310x310mm
-- Kinamatic mount: 4 of 50mm MGN9 rails
 
 ## Modifications
 
 - [Annex Panel 2020 Clips and Hinges](https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges/panel_clips_and_corners)
 - Exhaust: VFACH w/ BTT smart filament sensor
-- [Bondtech LGX](https://discord.com/channels/460117602945990666/635687829254701107/823946865027317841)
 - [C920 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/C920_Mount)
 - Frame thermistor
 - Z-chain relocation (XY-chain instead of Z-chain)
