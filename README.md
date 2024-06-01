@@ -58,7 +58,6 @@ Macros and config files are separeted in folders.
 ## Modifications
 
 - [Annex Panel 2020 Clips and Hinges](https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges/panel_clips_and_corners)
-- Exhaust: VFACH w/ BTT smart filament sensor
 - [C920 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/C920_Mount)
 - Frame thermistor
 - Z-chain relocation (XY-chain instead of Z-chain)
