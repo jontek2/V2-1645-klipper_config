@@ -15,7 +15,7 @@ Macros and config files are separeted in folders.
 
 ### Electronics
 
-- A/B Motors: LDO Motors 42STH40-2004MAC
+- A/B Motors: LDO-42STH48-2504AHS8 S55
 - Z Motors: LDO Motors 42STH48-2004AC
 - MCU: Octopus Pro w/ TMC2209
 - PSU 24v: Mean Well RSP-200-24
@@ -32,14 +32,14 @@ Macros and config files are separeted in folders.
 
 ### Toolhead
 - Toolhead: Xol + G2SA
-- Hotend: Phaetus Dragon HF
+- Hotend: Dragon Ace
 - Hotend fan: Generic 2510
 - Partcooling fan: Delta Electronics 12v BFB0412HHA-A117
 - Extruder: Galileo 2 StandAlone
 - Probe: Beacon
 
 ### Enclosure
-- General enclosure: Printed solid ACM panels with foam outside of the panels
+- General enclosure: PC panels + Foam
 - Front door: [Extrusion door](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door/)
 
 ### Mechanics & Frame
@@ -54,21 +54,3 @@ Macros and config files are separeted in folders.
 - Heater pad: Keenovo silicone AC heater (240mm x 240mm 600W 220V/240V)
 - Buildplate: Universal, 300x300x8mm
 - PEI: PrimaCreator Powder Coated PEI 310x310mm
-
-## Modifications
-
-- [Annex Panel 2020 Clips and Hinges](https://github.com/Annex-Engineering/Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges/panel_clips_and_corners)
-- [C920 Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Koios/C920_Mount)
-- Frame thermistor
-- Z-chain relocation (XY-chain instead of Z-chain)
-- [Gantry Backing Plates](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/whoppingpochard/extrusion_backers)
-- [Keystone Jack Universal Skirt Insert](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/bryansj/Keystone_Jack_Universal_Skirt_Insert)
-- [LED mounts](https://discord.com/channels/460117602945990666/635687829254701107/725391527882260563)
-- [MarcPot Skirt Mods](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MarcPot/Skirt_Mods)
-- [Nevermore v5 duo](https://github.com/nevermore3d/Nevermore_Micro/tree/master/V5_Duo/V2)
-- [Pins mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
-- [Ramalama2 Front idlers](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers)
-- [Sturdy handles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/Sturdy_Handles)
-- [V2 Bed Wagos](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/deepfriedheroin/v2_bed_wagos)
-- [Voron 2.4 GE5C Z joint](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C)
-- [Z-belt cover Voron 2.2](https://github.com/VoronDesign/Voron-2/releases/tag/V2.2)
