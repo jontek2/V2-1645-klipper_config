@@ -4,9 +4,7 @@ This repo contains data on V2.1645.
 
 ## Config
 
-Klipper configs for V2.1645 (V2.4 300) printer running fluidd.
-
-Macros and config files are separeted in folders.
+Klipper configs for V2.1645 (V2.4 300) printer running fluidd. Macros and config files are separeted in folders.
 
 ## Main Components
 
@@ -28,26 +26,26 @@ Macros and config files are separeted in folders.
 - CAN-cable: [Microfit overmold](https://www.digikey.se/en/products/detail/molex/2451320450/6822830)
 
 ### Toolhead
-- Toolhead: Xol + G2SA
-- Hotend: Dragon Ace
-- Hotend fan: Generic 2510
-- Partcooling fan: Delta Electronics 12v BFB0412HHA-A117
-- Extruder: Galileo 2 StandAlone
+- Toolhead: A4T + wristwatch g2
+- Hotend: Dragon Ace Volcano
+- Hotend fan: Delta Electronics 15,000 RPM 5v ASB02505SHA-AY6B
+- Partcooling fan: GDStime 12,000 RPM 24v
+- Extruder: WristWatch-G2-Extruder
 - Probe: Beacon
 
 ### Enclosure
 - General enclosure: PC panels + Foam
-- Front door: [Extrusion door](https://github.com/tanaes/whopping_Voron_mods/blob/main/clickyclacky_door/)
+- Front door: Clickyclacky door
 
 ### Mechanics & Frame
 - Frame: LDO v2 300
 - X linear rail: HIWIN MG Series Miniature Linear Rails - MGN12H
 - Y linear rail: HIWIN MG Series Miniature Linear Rails - MGN9H
 - Z linear rail: RobotDigg - MGN9H 
-- Foamtape: [XFasten Black Foam Seal Tape](https://www.amazon.com/dp/B07QYGN3C1)
+- Foamtape: XFasten Black Foam Seal Tape)
 
 ### Bed
 - SSR: SSR 120/230 V/AC, 10 Ampere
 - Heater pad: Keenovo silicone AC heater (240mm x 240mm 600W 220V/240V)
 - Buildplate: Universal, 300x300x8mm
-- PEI: PrimaCreator Powder Coated PEI 310x310mm
+- PEI: OSEQ
