@@ -2,9 +2,6 @@
 
 This repo contains data on V2.1645. 
 
-
-![V2.4-1645](./images/v2.4-1645.jpg)
-
 ## Config
 
 Klipper configs for V2.1645 (V2.4 300) printer running fluidd.
