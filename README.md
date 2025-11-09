@@ -20,10 +20,8 @@ Klipper configs for V2.1645 (V2.4 300) printer running fluidd. Macros and config
 - Camera: Logitech C920 HD Pro
 - Relay: Shelly 1PM+
 
-### CAN BUS toolhead
-- Board: BTT EBB36
-- Control board: BTT U2C
-- CAN-cable: [Microfit overmold](https://www.digikey.se/en/products/detail/molex/2451320450/6822830)
+### Toolhead board
+- Board: BTT EBB36 Gen2
 
 ### Toolhead
 - Toolhead: A4T + wristwatch g2
